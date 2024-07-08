@@ -16,10 +16,4 @@ $(document).ready(function() {
   duration: 2000,
   distance: '50%'
  });
-
- ScrollReveal().reveal('#social_media', {
-  origin: 'right',
-  duration: 2000,
-  distance: '50%'
- });
 });
